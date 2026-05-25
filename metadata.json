@@ -1,0 +1,6 @@
+{
+  "name": "Aabshar Mineral Water",
+  "description": "Premium mountain spring mineral water brand in Pakistan. Sourced from pristine glaciers and springs, delivered fresh to your door.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
